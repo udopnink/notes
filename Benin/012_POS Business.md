@@ -1,0 +1,21 @@
+POS Business
+
+Samstag, 15. Dezember 2018
+
+11:57
+
+ 
+
+Update on latest developments
+
+Check for free mobile POS
+
+<https://loyverse.com/pricing>
+
+<https://ehopper.com/pricing/>
+
+<https://www.imonggo.com/>
+
+<https://www.capterra.com/p/176624/Chromis-POS/>
+
+ 

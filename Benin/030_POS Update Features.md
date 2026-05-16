@@ -1,0 +1,23 @@
+POS Update Features
+
+Samstag, 15. Dezember 2018
+
+14:27
+
+ 
+
+Changes can be developed and tested using a copy of the productive chromispos-database.
+
+ 
+
+Changes can only be deployed in target when nobody else is working with ChromisPOS.
+
+ 
+
+Changes can also directly occur in the target using ChromisPOS odn the respective OneDrive. Again, this only works when nobody else is working with ChromisPOS.
+
+ 
+
+So, arrange for a maintenance slot.
+
+ 
