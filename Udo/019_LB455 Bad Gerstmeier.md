@@ -140,3 +140,7 @@ Mineralische Farbe Keim innotop weiß
 Empfehlung für Flur
 
 Reine Dispersionsfarbe Nassabrieb 2
+
+![](019_LB455_Bad_Gerstmeier_000.png)
+
+![](019_LB455_Bad_Gerstmeier_001.png)
