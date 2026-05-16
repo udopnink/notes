@@ -4,12 +4,6 @@ created: 2018-10-22
 
 LB455 Bad Gerstmeier
 
-Montag, 22. Oktober 2018
-
-10:16
-
- 
-
 Stand der letzten Arbeiten:
 
 - Lüfter

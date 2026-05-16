@@ -4,12 +4,6 @@ created: 2018-02-27
 
 UCR University of California Riverside
 
-Dienstag, 27. Februar 2018
-
-19:45
-
- 
-
 **International Village**
 
 1100 Everton Place

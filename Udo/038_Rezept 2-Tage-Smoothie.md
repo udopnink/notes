@@ -4,12 +4,6 @@ created: 2018-02-08
 
 Rezept 2-Tage-Smoothie
 
-Donnerstag, 8. Februar 2018
-
-20:57
-
- 
-
 Jens:
 
 Ich mache immer etwas grünes rein (frischen oder gefrorenen Spinat, Feldsalat, Rucola, Grünkohl gefroren o.ä.)

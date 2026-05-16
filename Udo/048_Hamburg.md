@@ -4,12 +4,6 @@ created: 2018-02-08
 
 Hamburg
 
-Donnerstag, 8. Februar 2018
-
-20:54
-
- 
-
 Sightseeing
 
 1\. Hafen: Einfach Landungsbrücken aussteigen und unten auf dem Steg flanieren; Fischbrötchen essen nicht vergessen! Wenn Sie Zeit haben, sollten Sie unbedingt eine Hafenrundfahrt machen, aber fragen Sie ganz konkret, ob auch die Speicherstadt dabei ist. Das ist manchmal nicht der Fall, wenn das Wasser wegen Ebbe zu niedrig ist.

@@ -4,12 +4,6 @@ created: 2019-03-28
 
 POS Introduction
 
-Donnerstag, 28. März 2019
-
-16:37
-
- 
-
 ChromisPOS est un système de point de vente. Vous pouvez l\'utiliser pour vendre des services tels que la consultation ou des produits tels que la médecine et le pansement. 
 
  

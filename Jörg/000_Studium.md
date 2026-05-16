@@ -4,12 +4,6 @@ created: 2018-07-23
 
 Studium
 
-Montag, 23. Juli 2018
-
-14:10
-
- 
-
 **Master** Studiengang
 
 Medical technology

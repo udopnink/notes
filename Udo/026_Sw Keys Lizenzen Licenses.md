@@ -4,12 +4,6 @@ created: 2017-09-21
 
 Sw Keys Lizenzen Licenses
 
-Donnerstag, 21. September 2017
-
-16:09
-
- 
-
 **CATiA / No Magic**
 
 \-\-\-\--

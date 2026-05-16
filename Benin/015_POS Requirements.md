@@ -4,12 +4,6 @@ created: 2018-11-26
 
 POS Requirements
 
-Montag, 26. November 2018
-
-16:32
-
- 
-
 **Questions**
 
 Additional positions for stamp and signature

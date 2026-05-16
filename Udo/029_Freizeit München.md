@@ -4,12 +4,6 @@ created: 2018-02-08
 
 Freizeit München
 
-Donnerstag, 8. Februar 2018
-
-20:51
-
- 
-
 Sightseeing
 
  

@@ -4,12 +4,6 @@ created: 2022-05-22
 
 Unverträglichkeiten Cécile
 
-Sonntag, 22. Mai 2022
-
-11:28
-
- 
-
 Für Cécile bitte
 
 - Keine Butter

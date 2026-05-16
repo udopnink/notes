@@ -4,12 +4,6 @@ created: 2024-01-22
 
 Buchung Condor US 2024-06
 
-Montag, 22. Januar 2024
-
-12:04
-
- 
-
 Condor Flugdienst GmbH
 
 \"REISESTELLE\"

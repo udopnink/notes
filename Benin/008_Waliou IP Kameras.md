@@ -4,12 +4,6 @@ created: 2018-08-17
 
 Waliou IP Kameras
 
-Freitag, 17. August 2018
-
-19:02
-
- 
-
 **Fragen**:
 
 Wie viele Kameras innen? 3

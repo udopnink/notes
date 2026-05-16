@@ -4,12 +4,6 @@ created: 2019-09-12
 
 Je ne parle pas francais
 
-Donnerstag, 12. September 2019
-
-08:40
-
- 
-
 Je ne parle pas français
 
 [Namika](https://www.google.com/search?rlz=1C1CHBF_deDE857DE857&sxsrf=ACYBGNR7-Y59qWD_Q8bs92kJOUgcq_fenA:1568270288428&q=Namika&stick=H4sIAAAAAAAAAONgVuLVT9c3NEwqNy-rLCvMXcTK5peYm5mdCACO1hJaGgAAAA&sa=X&ved=2ahUKEwjzjtCL1srkAhXMIlAKHTG1DIEQMTAAegQIChAF)

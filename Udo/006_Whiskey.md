@@ -4,12 +4,6 @@ created: 2022-05-31
 
 Whiskey
 
-Dienstag, 31. Mai 2022
-
-17:06
-
- 
-
 20231116
 
  

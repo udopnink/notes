@@ -4,12 +4,6 @@ created: 2018-02-08
 
 Paris
 
-Donnerstag, 8. Februar 2018
-
-21:02
-
- 
-
 Etamine Café
 
 13 Rue des Ecouffes - 75004 PARIS

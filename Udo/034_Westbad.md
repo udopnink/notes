@@ -4,12 +4,6 @@ created: 2018-01-26
 
 Westbad
 
-Freitag, 26. Januar 2018
-
-16:05
-
- 
-
 Westbad
 
 Mo 20:30 - 20:50 aqua power

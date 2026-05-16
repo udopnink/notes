@@ -4,12 +4,6 @@ created: 2019-03-28
 
 POS 01 Cassier sells product
 
-Donnerstag, 28. März 2019
-
-16:39
-
- 
-
 Cassier sells products 
 
 (anonymous, without customer data) 

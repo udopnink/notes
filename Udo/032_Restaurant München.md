@@ -4,12 +4,6 @@ created: 2018-02-08
 
 Restaurant München
 
-Donnerstag, 8. Februar 2018
-
-18:04
-
- 
-
 siehe auch Google Maps, meine Einträge
 
  

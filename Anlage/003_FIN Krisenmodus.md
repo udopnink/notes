@@ -4,12 +4,6 @@ created: 2020-05-15
 
 FIN Krisenmodus
 
-Freitag, 15. Mai 2020
-
-16:18
-
- 
-
 **Krisenmodus**
 
  

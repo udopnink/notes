@@ -4,12 +4,6 @@ created: 2019-03-28
 
 POS Credentials
 
-Donnerstag, 28. März 2019
-
-15:59
-
- 
-
 See **clinique** key store
 
 cli.3033.97

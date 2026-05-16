@@ -4,12 +4,6 @@ created: 2018-07-29
 
 Finanzen Anlage Börse und Co
 
-Sonntag, 29. Juli 2018
-
-14:26
-
- 
-
 **Beobachten**:
 
  

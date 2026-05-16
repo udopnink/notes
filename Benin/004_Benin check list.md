@@ -4,12 +4,6 @@ created: 2018-02-08
 
 Benin check list
 
-Donnerstag, 8. Februar 2018
-
-20:59
-
- 
-
 Flugtickets
 
 Visa

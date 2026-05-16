@@ -4,12 +4,6 @@ created: 2018-02-08
 
 Berlin Restaurant
 
-Donnerstag, 8. Februar 2018
-
-20:56
-
- 
-
 Restaurant Weimarer Dreieck
 
 Essener Straße 19

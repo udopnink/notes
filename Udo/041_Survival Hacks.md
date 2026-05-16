@@ -4,12 +4,6 @@ created: 2022-03-20
 
 Survival Hacks
 
-Sonntag, 20. März 2022
-
-15:50
-
- 
-
 Dose wasserdicht bruchfest
 
 Signalpfeife

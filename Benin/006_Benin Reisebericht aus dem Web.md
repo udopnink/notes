@@ -4,12 +4,6 @@ created: 2018-02-08
 
 Benin Reisebericht aus dem Web
 
-Donnerstag, 8. Februar 2018
-
-20:55
-
- 
-
 Cotonou
 
 Wir sind bei Minusgraden von Basel/Mühlhausen mit Air France über Paris nach Cotonou geflogen und abends angekommen - es waren immer noch über 30 Grad. Bei der Ankunft herrschte Gepäck-Chaos. Pro Person sind bei Flügen nach Cotonou 46kg erlaubt, was viele Afrikaner mehr als ausnutzen. Dementsprechend war das Gepäck-Band übervoll.

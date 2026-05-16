@@ -4,12 +4,6 @@ created: 2018-12-15
 
 POS Update Features
 
-Samstag, 15. Dezember 2018
-
-14:27
-
- 
-
 Changes can be developed and tested using a copy of the productive chromispos-database.
 
  

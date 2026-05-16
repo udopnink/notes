@@ -4,12 +4,6 @@ created: 2019-11-30
 
 Anstrich Treppenhäuser 2019
 
-Samstag, 30. November 2019
-
-09:05
-
- 
-
 > Maler h.rothermund@t-online.de
 
 - Nr. 03, \"Poesie der Stille\" für den hellen Teil des Treppenhauses

@@ -4,12 +4,6 @@ created: 2018-10-13
 
 POS Use Cases Pharmacy
 
-Samstag, 13. Oktober 2018
-
-11:11
-
- 
-
 **Application** start
 
 > ChromisPoS = Windows application

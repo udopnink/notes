@@ -4,12 +4,6 @@ created: 2018-10-13
 
 POS Use Cases Manager
 
-Samstag, 13. Oktober 2018
-
-20:56
-
- 
-
 **Application** start
 
 > ChromisPoS = Windows application

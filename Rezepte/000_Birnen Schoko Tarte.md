@@ -4,8 +4,6 @@ created: 2023-08-12
 
 Birnen Schoko Tarte
 
-Samstag, 12. August 2023
-
 BIRNEN- SCHOKO-TARTE
 
  

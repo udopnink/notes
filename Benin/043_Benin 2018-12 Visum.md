@@ -4,12 +4,6 @@ created: 2018-10-25
 
 Benin 2018-12 Visum
 
-Donnerstag, 25. Oktober 2018
-
-17:25
-
- 
-
 ![](043_Benin_2018-12_Visum_000.png){width="12.5in" height="17.631944444444443in"}![](043_Benin_2018-12_Visum_001.png){width="12.5in" height="17.631944444444443in"}![](043_Benin_2018-12_Visum_002.png)
 
 <https://evisa.gouv.bj/en/>

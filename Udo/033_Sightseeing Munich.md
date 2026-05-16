@@ -4,12 +4,6 @@ created: 2018-08-16
 
 Sightseeing Munich
 
-Donnerstag, 16. August 2018
-
-19:51
-
- 
-
 **Sightseeing Munich**
 
  

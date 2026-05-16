@@ -4,12 +4,6 @@ created: 2018-12-15
 
 POS Business
 
-Samstag, 15. Dezember 2018
-
-11:57
-
- 
-
 Update on latest developments
 
 Check for free mobile POS

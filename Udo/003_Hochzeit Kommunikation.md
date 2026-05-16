@@ -4,12 +4,6 @@ created: 2020-05-21
 
 Hochzeit Kommunikation
 
-Donnerstag, 21. Mai 2020
-
-13:32
-
- 
-
 **TODO**
 
  

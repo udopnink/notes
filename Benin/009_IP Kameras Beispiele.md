@@ -4,12 +4,6 @@ created: 2018-08-18
 
 IP Kameras Beispiele
 
-Samstag, 18. August 2018
-
-12:00
-
- 
-
 > <https://www.upcam.de/ip-ueberwachungskameras/upcam-vortex-innenaussen>
 >
 >  

@@ -4,10 +4,6 @@ created: 2018-02-14
 
 Lenovo Active Pen
 
-Mittwoch, 14. Februar 2018
-
-11:16
-
 lenovo active pen 2 4X80N95873
 
  

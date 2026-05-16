@@ -4,12 +4,6 @@ created: 2018-12-09
 
 POS Business Rules
 
-Sonntag, 9. Dezember 2018
-
-14:40
-
- 
-
 Services are sold via hospital.
 
 > Services are managed as products with service feature.

@@ -4,12 +4,6 @@ created: 2018-02-08
 
 Sprüche Zitate Quotes
 
-Donnerstag, 8. Februar 2018
-
-21:01
-
- 
-
 Je suis le Beaufort et j\'aime la Beninoise.
 
  

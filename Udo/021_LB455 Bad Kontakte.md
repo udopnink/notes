@@ -4,12 +4,6 @@ created: 2018-08-29
 
 LB455 Bad Kontakte
 
-Mittwoch, 29. August 2018
-
-09:44
-
- 
-
 **Ausstellung**
 
  

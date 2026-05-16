@@ -4,12 +4,6 @@ created: 2019-11-30
 
 Deckenleuchten Tausch
 
-Samstag, 30. November 2019
-
-09:05
-
- 
-
 **Nostraforma** (Lampengeschäft in der Bodenseestr. 129), Beratung:
 
 1.  neue LED-Lampen mit E27-Gewinde in die alten Fassungen der Lampen einbringen (Kostenpunkt ca. € 5-8.-/Birne), Durchmesser 22,5 cm, Sockeldurchmesser 19,5 cm, Höhe 11,5 cm

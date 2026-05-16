@@ -4,10 +4,6 @@ created: 2024-09-21
 
 Agile Transformation
 
-Samstag, 21. September 2024
-
-10:19
-
 Über diverse Projekte und Unternehmen hinweg betrachtet, kann man u. a. folgende Aspekte schärfen und peu à peu geschickt miteinander kombinieren:
 
  

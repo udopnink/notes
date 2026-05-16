@@ -4,12 +4,6 @@ created: 2018-08-18
 
 POS Examples
 
-Samstag, 18. August 2018
-
-11:58
-
- 
-
 <https://hellocash.de/preise>
 
  

@@ -4,12 +4,6 @@ created: 2019-03-16
 
 Einkaufen
 
-Samstag, 16. März 2019
-
-12:51
-
- 
-
 Vollkorntoast
 
 Brot

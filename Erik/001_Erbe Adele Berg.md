@@ -4,12 +4,6 @@ created: 2022-05-02
 
 Erbe Adele Berg
 
-Montag, 2. Mai 2022
-
-20:20
-
- 
-
 ===== Erbe Adele =====
 
  

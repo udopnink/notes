@@ -4,12 +4,6 @@ created: 2019-03-28
 
 POS 10 Cassier closes day
 
-Donnerstag, 28. März 2019
-
-16:39
-
- 
-
 The cash register shall be closed every day at end of (sales) business. 
 
  

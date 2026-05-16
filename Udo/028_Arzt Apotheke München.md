@@ -4,12 +4,6 @@ created: 2017-12-14
 
 Arzt Apotheke München
 
-Donnerstag, 14. Dezember 2017
-
-10:40
-
- 
-
 Hausarzt\
 Cornelia Fonk & Dr. Marcus Mußner 
 
