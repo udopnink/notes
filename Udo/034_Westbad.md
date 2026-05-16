@@ -1,3 +1,7 @@
+---
+created: 2018-01-26
+---
+
 Westbad
 
 Freitag, 26. Januar 2018

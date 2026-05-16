@@ -1,3 +1,7 @@
+---
+created: 2018-11-26
+---
+
 POS Solutions
 
 Montag, 26. November 2018

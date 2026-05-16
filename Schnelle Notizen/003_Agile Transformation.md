@@ -1,3 +1,7 @@
+---
+created: 2024-09-21
+---
+
 Agile Transformation
 
 Samstag, 21. September 2024

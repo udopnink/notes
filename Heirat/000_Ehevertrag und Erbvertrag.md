@@ -1,3 +1,7 @@
+---
+created: 2019-06-10
+---
+
 Ehevertrag und Erbvertrag
 
 Montag, 10. Juni 2019

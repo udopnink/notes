@@ -1,3 +1,7 @@
+---
+created: 2019-11-30
+---
+
 Deckenleuchten Tausch
 
 Samstag, 30. November 2019

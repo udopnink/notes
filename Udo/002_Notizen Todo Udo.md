@@ -1,3 +1,7 @@
+---
+created: 2017-11-01
+---
+
 Notizen Todo Udo
 
 Mittwoch, 1. November 2017

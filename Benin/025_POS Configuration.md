@@ -1,3 +1,7 @@
+---
+created: 2018-10-13
+---
+
 POS Configuration
 
 Samstag, 13. Oktober 2018

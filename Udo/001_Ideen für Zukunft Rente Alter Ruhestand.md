@@ -1,3 +1,7 @@
+---
+created: 2021-10-31
+---
+
 Ideen für Zukunft Rente Alter Ruhestand
 
 Sonntag, 31. Oktober 2021

@@ -1,3 +1,7 @@
+---
+created: 2018-09-15
+---
+
 Airtel zurückgeben
 
 ![Device Information Device name: IMEI: IMSI My number: Hardware version: Software versiom Web UI version: LAN MAC address: WAN P Address: WAN IPv6 Address: PLMU E5573Cs-609 868502034112793 262072006453992 Unknown CLI E5573CSM VerB Unknown Unknown Unknown ](000_Airtel_zurückgeben_000.png){width="4.125in" height="5.4375in"}

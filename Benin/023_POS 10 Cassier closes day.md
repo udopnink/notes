@@ -1,3 +1,7 @@
+---
+created: 2019-03-28
+---
+
 POS 10 Cassier closes day
 
 Donnerstag, 28. März 2019

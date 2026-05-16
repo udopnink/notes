@@ -1,3 +1,7 @@
+---
+created: 2018-02-08
+---
+
 Rezept 2-Tage-Smoothie
 
 Donnerstag, 8. Februar 2018

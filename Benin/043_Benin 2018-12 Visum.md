@@ -1,3 +1,7 @@
+---
+created: 2018-10-25
+---
+
 Benin 2018-12 Visum
 
 Donnerstag, 25. Oktober 2018
@@ -124,6 +128,4 @@ PASSPORT DATA
 
  
 
-*Aus \<<https://evisa.gouv.bj/en/applications/synthese/1120567154218>\>*
-
-\<\<VISA_EV0025106.pdf\>\>
+*Aus \<<https://evisa.gouv.bj/en/applications/synthese/1120567154218

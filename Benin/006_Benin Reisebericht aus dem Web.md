@@ -1,3 +1,7 @@
+---
+created: 2018-02-08
+---
+
 Benin Reisebericht aus dem Web
 
 Donnerstag, 8. Februar 2018

@@ -1,3 +1,7 @@
+---
+created: 2019-11-30
+---
+
 Anstrich Treppenhäuser 2019
 
 Samstag, 30. November 2019

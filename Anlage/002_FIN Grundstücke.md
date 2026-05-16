@@ -1,3 +1,7 @@
+---
+created: 2020-06-22
+---
+
 FIN Grundstücke
 
 Montag, 22. Juni 2020

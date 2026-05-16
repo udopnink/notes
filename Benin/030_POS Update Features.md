@@ -1,3 +1,7 @@
+---
+created: 2018-12-15
+---
+
 POS Update Features
 
 Samstag, 15. Dezember 2018
