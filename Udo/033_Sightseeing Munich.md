@@ -2,8 +2,6 @@
 created: 2018-08-16
 ---
 
-Sightseeing Munich
-
 **Sightseeing Munich**
 
  

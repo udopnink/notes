@@ -2,8 +2,6 @@
 created: 2018-07-23
 ---
 
-Studium
-
 **Master** Studiengang
 
 Medical technology

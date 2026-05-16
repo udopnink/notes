@@ -2,8 +2,6 @@
 created: 2018-10-13
 ---
 
-POS Configuration
-
 **Enable remote desktop**
 
 a.  Windows 10 Pro with built-in RDP

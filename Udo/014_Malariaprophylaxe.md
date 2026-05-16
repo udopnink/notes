@@ -2,8 +2,6 @@
 created: 2018-08-20
 ---
 
-Malariaprophylaxe
-
 Rezept online
 
 <https://www.drlisalink.de/index.php#rezeptbestellung>

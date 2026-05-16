@@ -2,8 +2,6 @@
 created: 2023-03-28
 ---
 
-Augen Optik
-
 Werte 20230328 Augenarzt Pasing
 
 Typ sph cyl Achse

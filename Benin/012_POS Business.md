@@ -2,8 +2,6 @@
 created: 2018-12-15
 ---
 
-POS Business
-
 Update on latest developments
 
 Check for free mobile POS

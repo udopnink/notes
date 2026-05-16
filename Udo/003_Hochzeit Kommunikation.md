@@ -2,8 +2,6 @@
 created: 2020-05-21
 ---
 
-Hochzeit Kommunikation
-
 **TODO**
 
  

@@ -2,8 +2,6 @@
 created: 2018-09-18
 ---
 
-LB455 Bad Anforderungen
-
 **Anforderungen**
 
  

@@ -2,8 +2,6 @@
 created: 2018-12-09
 ---
 
-POS Database
-
 **Tables** with relevant data for configuration
 
 CATEGORIES

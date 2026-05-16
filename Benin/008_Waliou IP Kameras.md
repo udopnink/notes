@@ -2,8 +2,6 @@
 created: 2018-08-17
 ---
 
-Waliou IP Kameras
-
 **Fragen**:
 
 Wie viele Kameras innen? 3

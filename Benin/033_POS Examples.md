@@ -2,8 +2,6 @@
 created: 2018-08-18
 ---
 
-POS Examples
-
 <https://hellocash.de/preise>
 
  

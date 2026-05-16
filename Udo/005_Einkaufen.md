@@ -2,8 +2,6 @@
 created: 2019-03-16
 ---
 
-Einkaufen
-
 Vollkorntoast
 
 Brot

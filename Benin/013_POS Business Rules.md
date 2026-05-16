@@ -2,8 +2,6 @@
 created: 2018-12-09
 ---
 
-POS Business Rules
-
 Services are sold via hospital.
 
 > Services are managed as products with service feature.

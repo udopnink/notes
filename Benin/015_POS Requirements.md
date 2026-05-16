@@ -2,8 +2,6 @@
 created: 2018-11-26
 ---
 
-POS Requirements
-
 **Questions**
 
 Additional positions for stamp and signature

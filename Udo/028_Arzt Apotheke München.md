@@ -2,8 +2,6 @@
 created: 2017-12-14
 ---
 
-Arzt Apotheke München
-
 Hausarzt\
 Cornelia Fonk & Dr. Marcus Mußner 
 

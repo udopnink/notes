@@ -2,8 +2,6 @@
 created: 2018-12-15
 ---
 
-POS Products
-
 **Import via products.csv**
 
  

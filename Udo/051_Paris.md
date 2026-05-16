@@ -2,8 +2,6 @@
 created: 2018-02-08
 ---
 
-Paris
-
 Etamine Café
 
 13 Rue des Ecouffes - 75004 PARIS

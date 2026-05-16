@@ -2,8 +2,6 @@
 created: 2019-03-28
 ---
 
-POS Credentials
-
 See **clinique** key store
 
 cli.3033.97

@@ -2,8 +2,6 @@
 created: 2022-05-02
 ---
 
-FIN Pitch
-
 ===== Fragen zum Pitch =====
 
  

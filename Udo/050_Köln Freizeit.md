@@ -2,8 +2,6 @@
 created: 2019-06-21
 ---
 
-Köln Freizeit
-
 Historische VR-Tour 15m
 
 <https://experiences.booking.com/attractions/de/cologne/8511.html?label=gen173nr-1FCCwoOzjVAkgHWARoO4gBAZgBB7gBF8gBFNgBAegBAfgBA4gCAagCA7gCxday6AXAAgE&lang=de&url_code=pA5108LoYCZEWN0A0mJ59MyJ4V8FrKurzNUPLfZM1TEORYa6CJXktD1mBcVv2Kzru48KkW8Ox870yt2qnpf1bjKIkW606Ndif8aM>

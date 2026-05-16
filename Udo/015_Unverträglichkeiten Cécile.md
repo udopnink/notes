@@ -2,8 +2,6 @@
 created: 2022-05-22
 ---
 
-Unverträglichkeiten Cécile
-
 Für Cécile bitte
 
 - Keine Butter

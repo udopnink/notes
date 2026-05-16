@@ -2,8 +2,6 @@
 created: 2018-12-15
 ---
 
-POS Update Features
-
 Changes can be developed and tested using a copy of the productive chromispos-database.
 
  

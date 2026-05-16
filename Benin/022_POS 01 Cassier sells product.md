@@ -2,8 +2,6 @@
 created: 2019-03-28
 ---
 
-POS 01 Cassier sells product
-
 Cassier sells products 
 
 (anonymous, without customer data) 

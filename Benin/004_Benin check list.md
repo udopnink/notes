@@ -2,8 +2,6 @@
 created: 2018-02-08
 ---
 
-Benin check list
-
 Flugtickets
 
 Visa

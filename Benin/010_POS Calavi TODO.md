@@ -2,8 +2,6 @@
 created: 2018-08-01
 ---
 
-POS Calavi TODO
-
 > **TODO**
 >
 >  

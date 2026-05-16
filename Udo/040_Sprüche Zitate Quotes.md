@@ -2,8 +2,6 @@
 created: 2018-02-08
 ---
 
-Sprüche Zitate Quotes
-
 Je suis le Beaufort et j\'aime la Beninoise.
 
  

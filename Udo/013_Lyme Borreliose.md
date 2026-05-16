@@ -2,8 +2,6 @@
 created: 2018-02-08
 ---
 
-Lyme Borreliose
-
 Borreliose, die sich auf die Gelenke setzt.
 
  

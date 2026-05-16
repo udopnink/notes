@@ -2,8 +2,6 @@
 created: 2018-02-08
 ---
 
-Benin Sprachen
-
 Fon, Idacha, Bariba, Yohoba/Yoruba, ...
 
 (2022 nur Yoruba in Google Translate verfügbar)

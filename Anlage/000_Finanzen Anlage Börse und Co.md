@@ -2,8 +2,6 @@
 created: 2018-07-29
 ---
 
-Finanzen Anlage Börse und Co
-
 **Beobachten**:
 
  

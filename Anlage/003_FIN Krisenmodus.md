@@ -2,8 +2,6 @@
 created: 2020-05-15
 ---
 
-FIN Krisenmodus
-
 **Krisenmodus**
 
  

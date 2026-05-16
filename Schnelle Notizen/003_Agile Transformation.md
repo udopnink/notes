@@ -2,8 +2,6 @@
 created: 2024-09-21
 ---
 
-Agile Transformation
-
 Über diverse Projekte und Unternehmen hinweg betrachtet, kann man u. a. folgende Aspekte schärfen und peu à peu geschickt miteinander kombinieren:
 
  

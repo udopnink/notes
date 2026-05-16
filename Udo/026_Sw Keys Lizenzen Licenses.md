@@ -2,8 +2,6 @@
 created: 2017-09-21
 ---
 
-Sw Keys Lizenzen Licenses
-
 **CATiA / No Magic**
 
 \-\-\-\--

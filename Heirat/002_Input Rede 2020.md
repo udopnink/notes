@@ -2,8 +2,6 @@
 created: 2019-10-21
 ---
 
-Input Rede 2020
-
 - Ok, nach der Segnung entspannen wir uns auf dem oberen Schlosshof
 
   - bei Kaffee & Kuchen mit chilliger Live-Musik von den X.Angelbuam

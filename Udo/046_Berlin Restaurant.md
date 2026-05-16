@@ -2,8 +2,6 @@
 created: 2018-02-08
 ---
 
-Berlin Restaurant
-
 Restaurant Weimarer Dreieck
 
 Essener Straße 19

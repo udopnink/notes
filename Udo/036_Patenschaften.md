@@ -2,8 +2,6 @@
 created: 2018-02-08
 ---
 
-Patenschaften
-
 **Plan International Benin**
 
 Patennummer 0204925

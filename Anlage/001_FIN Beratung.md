@@ -2,8 +2,6 @@
 created: 2019-03-10
 ---
 
-FIN Beratung
-
 2020-07-17 Grüner-Fisher, Christian Brauch
 
  

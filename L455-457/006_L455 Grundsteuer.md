@@ -2,8 +2,6 @@
 created: 2022-07-18
 ---
 
-L455 Grundsteuer
-
 Reform 2022
 
  

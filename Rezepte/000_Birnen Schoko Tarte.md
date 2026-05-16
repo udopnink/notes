@@ -2,8 +2,6 @@
 created: 2023-08-12
 ---
 
-Birnen Schoko Tarte
-
 BIRNEN- SCHOKO-TARTE
 
  

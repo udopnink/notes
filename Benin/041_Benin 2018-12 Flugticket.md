@@ -2,8 +2,6 @@
 created: 2018-10-25
 ---
 
-Benin 2018-12 Flugticket
-
 ![Ausgestellt durch Turkish Airlines Reisender BOKOJMINDESSETAYOCECILE MRS IC et atum 20.08.2018 TK1630 TK 561 TK 561 TK1633 r eise uro Reisebüro M+K Reisen GmbH Dachauer Str. 31 80335 München Telefon: 089553335 Flugdaten von Muenchen (Ml-IC) Istanbul (IST) Cotonou (COO) Istanbul (IST) Ticketnummer: Farebase: Endorsement: nach Istanbul (IST) Cotonou (COO) Istanbul (IST) Muenchen (MUC) 235 5983764063 QHN2PX,LHN3XPC Klasse Q Q L L Datum 26DEC 26DEC 1 IJAN 12JAN Abflu 10:05 15:50 22:05 12:45 Ankunft 14:40 21 09:10+1 13:30 Ge äck O 2PC 2PC 2PC 2PC NONENDrrK ONLY LAST DATE TO PURCHASE TICKET: 27AUG18 Buchungsreferenz / Airlinecode 9L888C RLFYFN ](041_Benin_2018-12_Flugticket_000.png){width="8.229166666666666in" height="3.701388888888889in"}
 
 Ticketnummer: 235 5983764062

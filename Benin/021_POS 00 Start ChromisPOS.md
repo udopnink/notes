@@ -2,8 +2,6 @@
 created: 2019-03-28
 ---
 
-POS 00 Start ChromisPOS
-
 You start ChromisPOS either by 
 
 Double-click on the desktop symbol  

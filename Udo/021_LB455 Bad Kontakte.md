@@ -2,8 +2,6 @@
 created: 2018-08-29
 ---
 
-LB455 Bad Kontakte
-
 **Ausstellung**
 
  

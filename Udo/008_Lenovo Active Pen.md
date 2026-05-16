@@ -2,8 +2,6 @@
 created: 2018-02-14
 ---
 
-Lenovo Active Pen
-
 lenovo active pen 2 4X80N95873
 
  

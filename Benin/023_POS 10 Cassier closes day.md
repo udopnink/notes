@@ -2,8 +2,6 @@
 created: 2019-03-28
 ---
 
-POS 10 Cassier closes day
-
 The cash register shall be closed every day at end of (sales) business. 
 
  

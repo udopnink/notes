@@ -2,8 +2,6 @@
 created: 2018-02-27
 ---
 
-UCR University of California Riverside
-
 **International Village**
 
 1100 Everton Place
