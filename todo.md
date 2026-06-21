@@ -1,5 +1,11 @@
 # Notes Udo Nink
 
+zulassung.kvr@muenchen.de
+
+Ich wurde vom Ordnungsamt der Verbandsgemeinde Diez aufgefordert, Mängel zu beseitigen (überschrittene HU). Die Sache ist in Arbeit, sollte diese Woche erledigt sein und ich reiche die Prüfungsunterlagen nach sobald verfügbar.
+
+
+
 ## gateway ventures
 
 Fragen/Anregungen
